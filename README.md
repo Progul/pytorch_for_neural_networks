@@ -14,4 +14,4 @@
 
 ## &rarr; Урок 4. CNN Свертки
 - Лекция
-- [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_4/HW_04.ipynb)
+- [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_4/HW_4.ipynb)
