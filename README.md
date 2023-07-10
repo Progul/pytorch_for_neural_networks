@@ -15,3 +15,7 @@
 ## &rarr; Урок 4. CNN Свертки
 - Лекция
 - [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_4/HW_4.ipynb)
+
+## &rarr; Урок 5. Сегментация изображений
+- Лекция
+- [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_5/HW_5.ipynb)
