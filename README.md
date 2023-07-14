@@ -19,3 +19,7 @@
 ## &rarr; Урок 5. Сегментация изображений
 - Лекция
 - [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_5/HW_5.ipynb)
+
+## &rarr; Урок 6. Нейросети в обработке текста
+- Лекция
+- [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_6/HW_6.ipynb)
