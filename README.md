@@ -23,3 +23,7 @@
 ## &rarr; Урок 6. Нейросети в обработке текста
 - Лекция
 - [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_6/HW_6.ipynb)
+
+## &rarr; Урок 7. Рекурентные сети для обработки последовательностей
+- Лекция
+- [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_7/HW_7.ipynb)
