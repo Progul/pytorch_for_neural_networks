@@ -31,3 +31,7 @@
 ## &rarr; Урок 8. Generative Adversarial Networks
 - Лекция
 - [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_8/HW_8.ipynb)
+
+## &rarr; Урок 9. Трансформер
+- Лекция
+- [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_9/HW_9.ipynb)
