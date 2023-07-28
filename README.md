@@ -35,3 +35,7 @@
 ## &rarr; Урок 9. Трансформер
 - Лекция
 - [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_9/HW_9.ipynb)
+
+## &rarr; Урок 10. Распознавание лиц и эмоций КУРСОВАЯ
+- Лекция
+- [Домашняя работа](https://github.com/Progul/pytorch_for_neural_networks/tree/master/HW/HW_10)
