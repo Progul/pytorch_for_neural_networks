@@ -8,12 +8,12 @@
   
 Скриншоты работы программы, реакция модели на известные жесты:  
 <br>
-<img src="C:\Users\desne\Documents\geek_brains\pytorch_for_neural_networks\HW\HW_10\1.jpg" width="300" />  
+<img src="https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_10/1.jpg" width="300" />  
 <br>
-<img src="C:\Users\desne\Documents\geek_brains\pytorch_for_neural_networks\HW\HW_10\2.jpg" width="300" />  
+<img src="https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_10/2.jpg" width="300" />  
 <br>
-<img src="C:\Users\desne\Documents\geek_brains\pytorch_for_neural_networks\HW\HW_10\3.jpg" width="300" />  
+<img src="https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_10/3.jpg" width="300" />  
 <br>  
 При отсутствии лица в кадре модель перестаёт реагировать на жесты:  
 <br>
-<img src="C:\Users\desne\Documents\geek_brains\pytorch_for_neural_networks\HW\HW_10\4.jpg" width="300" />  
+<img src="https://github.com/Progul/pytorch_for_neural_networks/blob/master/HW/HW_10/4.jpg" width="300" />  
